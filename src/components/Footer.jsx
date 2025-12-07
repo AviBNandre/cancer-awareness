@@ -7,7 +7,7 @@ export default function Footer() {
       <Container>
         <p className="mb-2 fw-light">
           © {new Date().getFullYear()} Cancer Awareness & Support | Built with
-          ❤️ for hope & healing Avinash 
+          ❤️ for hope & healing 
         </p>
         <div>
           <FaHeart className="me-2 text-danger" />
