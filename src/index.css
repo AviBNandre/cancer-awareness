@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fafafa;
+  scroll-behavior: smooth;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}
+
+footer {
+  letter-spacing: 0.5px;
+}
+
+.transition-opacity {
+  transition: opacity 0.5s ease-in-out;
+}
+.opacity-0 {
+  opacity: 0;
+}
+.opacity-100 {
+  opacity: 1;
+}
